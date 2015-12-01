@@ -2,7 +2,7 @@ title:            The InK Project
 tagline:          Incunabula at KU.
 description:      A digital humanities site devoted to the promotion of KU's collection of early printed books.
 canonical: http://jekyll.gtat.me
-
+baseurl: /site
 # Owner/author information
 owner:
   name:           KUSRLIP
